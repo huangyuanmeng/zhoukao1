@@ -1,0 +1,1 @@
+var box=document.getElementById("box"),data=new Date,newN=data.getYear(),newY=data.getMonth(),day=data.getDay();
